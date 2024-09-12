@@ -1,0 +1,18 @@
+.nav-items a{
+    padding: 8px 1rem;
+    margin: 0 8px;
+    transition: .1s ease-in-out;
+    font: white;
+}
+.nav-items a:hover{
+    color: #5EC38B;
+}
+.nav-items-responsive a{
+    display: block;
+    margin-top: 15px;
+    transition: 0.3s ease-in-out;
+    padding: 0 20px;
+}
+.nav-items-responsive a:hover{
+    color: #5EC38B;
+}
